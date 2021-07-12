@@ -1,0 +1,18 @@
+button {
+    margin-left: 10px;
+    font-size: medium;
+}
+
+.search {
+    width: 290px;
+    padding: 3px 0px 3px 12px; 
+    
+    background-color: seashell;
+    border: 1px solid Teal;     
+}
+
+.input {
+    font-size: medium;
+}
+
+
